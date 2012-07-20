@@ -1,8 +1,8 @@
 {
   "author": "Summer Davies <npm@summer.dev> (https://summer.dev)",
-  "name": "debug",
+  "name": "summer-debug",
   "description": "debuggy thing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./debug",
   "engines": {
     "node": "~0.8.1"
